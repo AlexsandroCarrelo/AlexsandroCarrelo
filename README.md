@@ -1,7 +1,7 @@
 ### Ola, eu sou o Alexsandro 👋
 
 - 📈 Atualmente estudante de Eng. De Software
-- 😍back-end 
+- 😍back-end Cubos Academy
 - 🗂️ Conhecimento em javaScript, linguagem C, HTML e CSS
 - 📌 Contate-me no E-mail: alexsandrodemsoficial@gmail.com
 

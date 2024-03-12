@@ -1,8 +1,9 @@
 ### Ola, eu sou o Alexsandro 👋
 
-- 🔭 Atualmente estudante de Eng. De Software
-- 🌱 Conhecimento em javaScript, linguagem C, HTML e CSS
-- 👯 Contate-me no E-mail: alexsandrodemsoficial@gmail.com
+- 📈 Atualmente estudante de Eng. De Software
+- 😍back-end 
+- 🗂️ Conhecimento em javaScript, linguagem C, HTML e CSS
+- 📌 Contate-me no E-mail: alexsandrodemsoficial@gmail.com
 
 <div align="center">
   <a href="https://github.com/AlexsandroCarrelo">

@@ -1,9 +1,9 @@
-### Ola, eu sou o Alexsandro 👋
+### Hello, I'm the Alexsandro 👋
 
-- 📈 Atualmente estudante de Eng. De Software
-- 😍back-end Cubos Academy
-- 🗂️ Conhecimento em javaScript e linguagem C
-- 📌 Contate-me no E-mail: alexsandrodemsoficial@gmail.com
+- 📈 Eng. De Software student 
+- 😍focused on back-end 
+- 🗂️ knowledge in javaScript, NodeJS, express
+- 📌 contact me at E-mail: alexsandrodemsoficial@gmail.com
 
   <a href="https://github.com/AlexsandroCarrelo">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=AlexsandroCarrelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

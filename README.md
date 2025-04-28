@@ -1,7 +1,7 @@
 ### Hello, I'm the Alexsandro 👋
 
 - 📈 Eng. De Software student 
-- 😍focused on back-end 
+- 😍focused on Full-stack 
 - 🗂️ knowledge in javaScript, NodeJS, express
 - 📌 contact me at E-mail: alexsandrodemsoficial@gmail.com
 

@@ -17,4 +17,4 @@
     <img src="https://skillicons.dev/icons?i=js,nodejs,express,github" />
   </a> 
 </p>
-<img src="https://raw.githubusercontent.com/ndzinxz/ndzinxz/output/snake.svg" alt="Snake animation" />
+
